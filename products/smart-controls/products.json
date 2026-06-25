@@ -1,0 +1,319 @@
+{
+  "category": "Smart Controls & Drivers",
+  "subtitle": "Complete LED driver range — DALI-2, Casambi, Tuya, 0-10V, Triac, non-dimming, constant voltage, emergency.",
+  "types": [
+    {
+      "slug": "dali",
+      "label": "DALI Dimming Drivers",
+      "products": [
+        {
+          "code": "ASI-DALI2-DT6",
+          "name": "ASI Series — DALI-2 DT6 Dimming",
+          "description": "Fast wiring & flicker-free DALI-2 DT6 driver with luminaire data, energy reporting and diagnostics.",
+          "features": [
+            "DALI-2 DT6",
+            "Push Dim",
+            "Stepless dimming",
+            "50,000h life"
+          ],
+          "pdf_page": 406,
+          "photo": "photos/ASI-DALI2-DT6.jpg"
+        },
+        {
+          "code": "ASI-DALI2-D4i",
+          "name": "ASI Series — DALI-2 DT6 D4i NFC",
+          "description": "DALI-2 D4i smart driver with NFC commissioning, CLO, corridor and energy reporting.",
+          "features": [
+            "DALI-2 D4i",
+            "NFC commissioning",
+            "CLO",
+            "Corridor Dim"
+          ],
+          "pdf_page": 406,
+          "photo": "photos/ASI-DALI2-D4i.jpg"
+        },
+        {
+          "code": "XSI-DALI2-DT6",
+          "name": "XSI Series — DALI-2 DT6",
+          "description": "Large-housing DT6 driver with stepless dimming for high-power architectural fixtures.",
+          "features": [
+            "DALI-2 DT6",
+            "High-power",
+            "Stepless"
+          ],
+          "pdf_page": 407,
+          "photo": "photos/XSI-DALI2-DT6.jpg"
+        },
+        {
+          "code": "XSI-DALI2-DT8",
+          "name": "XSI Series — DALI-2 DT8",
+          "description": "DALI DT8 driver with stepless CCT tuning for tunable-white luminaires.",
+          "features": [
+            "DALI-2 DT8",
+            "Stepless CCT",
+            "Tunable white"
+          ],
+          "pdf_page": 407,
+          "photo": "photos/XSI-DALI2-DT8.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "wireless",
+      "label": "Smart Wireless Drivers",
+      "products": [
+        {
+          "code": "ASI-BLE-CASAMBI",
+          "name": "ASI Series — BLE / Casambi IoT",
+          "description": "Bluetooth Casambi-enabled driver — mesh networking, app control, scenes and circadian.",
+          "features": [
+            "Casambi",
+            "BLE mesh",
+            "App control",
+            "Scenes"
+          ],
+          "pdf_page": 408,
+          "photo": "photos/ASI-BLE-CASAMBI.jpg"
+        },
+        {
+          "code": "VSI-BLE-CASAMBI",
+          "name": "VSI Series — BLE / Casambi IoT",
+          "description": "Higher-power Casambi driver for linear, pendant and architectural fixtures.",
+          "features": [
+            "Casambi",
+            "High-power",
+            "App control"
+          ],
+          "pdf_page": 408,
+          "photo": "photos/VSI-BLE-CASAMBI.jpg"
+        },
+        {
+          "code": "AMI-BLE-CASAMBI",
+          "name": "AMI Series — BLE / Casambi IoT",
+          "description": "Compact AMI casing with Casambi mesh — for indoor architectural luminaires.",
+          "features": [
+            "Casambi",
+            "Compact",
+            "AMI casing"
+          ],
+          "pdf_page": 409,
+          "photo": "photos/AMI-BLE-CASAMBI.jpg"
+        },
+        {
+          "code": "AMI-BLE-TUYA",
+          "name": "AMI Series — BLE / Tuya IoT",
+          "description": "Tuya IoT driver — compatible with Alexa, Google Home and Tuya Smart App.",
+          "features": [
+            "Tuya",
+            "Alexa",
+            "Google Home",
+            "BLE"
+          ],
+          "pdf_page": 409,
+          "photo": "photos/AMI-BLE-TUYA.jpg"
+        },
+        {
+          "code": "T-MULTI-PROTOCOL",
+          "name": "T Series — Multi-protocol IoT",
+          "description": "Multi-protocol IoT driver supporting BLE / Wi-Fi / Zigbee / BLE+Wi-Fi / Tuya.",
+          "features": [
+            "BLE",
+            "Wi-Fi",
+            "Zigbee",
+            "Tuya",
+            "Multi-protocol"
+          ],
+          "pdf_page": 410,
+          "photo": "photos/T-MULTI-PROTOCOL.jpg"
+        },
+        {
+          "code": "TLSI-BLE-CASAMBI",
+          "name": "TLSI Series — BLE / Casambi IoT",
+          "description": "Track-light optimized Casambi driver for smart accent and showcase systems.",
+          "features": [
+            "Casambi",
+            "Track-light",
+            "Accent"
+          ],
+          "pdf_page": 410,
+          "photo": "photos/TLSI-BLE-CASAMBI.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "analog",
+      "label": "0-10V Dimming Drivers",
+      "products": [
+        {
+          "code": "XSI-0-10V",
+          "name": "XSI Series — 0/1-10V Dimming",
+          "description": "Classic 0-10V analog dimming driver — broad compatibility with building controls.",
+          "features": [
+            "0-10V",
+            "1-10V",
+            "BMS-ready",
+            "High-power"
+          ],
+          "pdf_page": 411,
+          "photo": "photos/XSI-0-10V.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "triac",
+      "label": "Triac / Phase-Cut Drivers",
+      "products": [
+        {
+          "code": "ASI-TRIAC",
+          "name": "ASI Series — Triac / Phase-Cut",
+          "description": "Triac / leading-edge phase-cut driver — 99% market wall-dimmer compatibility.",
+          "features": [
+            "Triac",
+            "Leading-edge",
+            "99% compatibility"
+          ],
+          "pdf_page": 411,
+          "photo": "photos/ASI-TRIAC.jpg"
+        },
+        {
+          "code": "VSI-TRIAC",
+          "name": "VSI Series — Triac / Phase-Cut",
+          "description": "High-power Triac driver for residential pendant and ceiling luminaires.",
+          "features": [
+            "Triac",
+            "High-power",
+            "Residential"
+          ],
+          "pdf_page": 412,
+          "photo": "photos/VSI-TRIAC.jpg"
+        },
+        {
+          "code": "VSI-TRIAC-V2",
+          "name": "VSI Series — Triac / Phase-Cut (Compact)",
+          "description": "Compact Triac driver — slim format for inside-fixture mounting.",
+          "features": [
+            "Triac",
+            "Compact",
+            "Inside-fixture"
+          ],
+          "pdf_page": 412,
+          "photo": "photos/VSI-TRIAC-V2.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "non-dim",
+      "label": "Non-Dimming Drivers",
+      "products": [
+        {
+          "code": "ASI-NON-DIM",
+          "name": "ASI Series — Non-dimming",
+          "description": "High-efficiency non-dimmable LED driver for simple installations.",
+          "features": [
+            "Non-dimmable",
+            "High-efficiency",
+            "Compact"
+          ],
+          "pdf_page": 413,
+          "photo": "photos/ASI-NON-DIM.jpg"
+        },
+        {
+          "code": "VMI-NON-DIM",
+          "name": "VMI Series — Non-dimming",
+          "description": "Mid-power non-dimmable driver with broad voltage range.",
+          "features": [
+            "Non-dimmable",
+            "Mid-power"
+          ],
+          "pdf_page": 413,
+          "photo": "photos/VMI-NON-DIM.jpg"
+        },
+        {
+          "code": "PSI-NON-DIM",
+          "name": "PSI Series — Non-dimming",
+          "description": "Plug-and-socket non-dimmable driver — fast installation for retrofit projects.",
+          "features": [
+            "Non-dimmable",
+            "Plug & socket",
+            "Retrofit"
+          ],
+          "pdf_page": 414,
+          "photo": "photos/PSI-NON-DIM.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "cv",
+      "label": "Constant Voltage Drivers",
+      "products": [
+        {
+          "code": "DSI-CV-TRIAC",
+          "name": "DSI Series — Constant Voltage Triac",
+          "description": "Constant Voltage 12V/24V Triac driver for LED strip lighting with phase-cut dimming.",
+          "features": [
+            "Constant Voltage",
+            "Triac",
+            "12V / 24V"
+          ],
+          "pdf_page": 415,
+          "photo": "photos/DSI-CV-TRIAC.jpg"
+        },
+        {
+          "code": "VNG-CV-NON-DIM",
+          "name": "VNG Series — Constant Voltage Non-dimming",
+          "description": "Constant Voltage 12V/24V non-dimmable driver for LED strip and architectural cove.",
+          "features": [
+            "Constant Voltage",
+            "12V / 24V",
+            "Non-dimmable"
+          ],
+          "pdf_page": 415,
+          "photo": "photos/VNG-CV-NON-DIM.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "emergency",
+      "label": "Emergency & Accessories",
+      "products": [
+        {
+          "code": "EM05-EMERGENCY",
+          "name": "EM05 Series — Emergency Driver",
+          "description": "Emergency LED driver with backup battery — 1-3h autonomy for safety-critical lighting.",
+          "features": [
+            "Emergency",
+            "1-3h backup",
+            "Auto-test"
+          ],
+          "pdf_page": 416,
+          "photo": "photos/EM05-EMERGENCY.jpg"
+        },
+        {
+          "code": "R-JUNCTION",
+          "name": "R Series — Junction Box",
+          "description": "Heavy-duty junction box with screw terminals for safe luminaire wiring.",
+          "features": [
+            "Junction box",
+            "Screw terminals",
+            "IP rated"
+          ],
+          "pdf_page": 416,
+          "photo": "photos/R-JUNCTION.jpg"
+        },
+        {
+          "code": "TB01-WIRE-BOX",
+          "name": "TB01 Series — Connection Wire Box",
+          "description": "Quick-connect wire box for series-wired LED luminaire installations.",
+          "features": [
+            "Quick-connect",
+            "Wire box",
+            "Series wiring"
+          ],
+          "pdf_page": 417,
+          "photo": "photos/TB01-WIRE-BOX.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 22
+}
