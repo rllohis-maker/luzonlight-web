@@ -1,0 +1,30 @@
+# OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backups
+*.bak
+*~
+
+# Build / dependency caches (in case you later add a build step)
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Env
+.env
+.env.local
+.env.*.local
