@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/index-BZq2XBvQ.js
+Disallow: /assets/routes-gqCiHF9n.js
+
+Sitemap: https://www.luzonlight.com/sitemap.xml
