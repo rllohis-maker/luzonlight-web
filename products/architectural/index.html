@@ -36,7 +36,7 @@
   /* NAV */
   .nav{position:fixed;top:0;left:0;right:0;z-index:50;padding:18px 0;background:rgba(10,11,13,.85);backdrop-filter:blur(20px);border-bottom:1px solid var(--line)}
   .nav-inner{display:flex;justify-content:space-between;align-items:center;gap:30px}
-  .brand img{height:34px;width:auto}
+  .brand{cursor:pointer;display:inline-block}.brand:hover img{opacity:.8}.brand img{height:34px;width:auto;transition:opacity .2s}
   .nav-links{display:flex;gap:34px;align-items:center;font-family:var(--ff-mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--text-dim)}
   .nav-links a{transition:color .2s}
   .nav-links a:hover,.nav-links a.active{color:var(--text)}
@@ -121,6 +121,7 @@
       <img src="/assets/logo-luzon.png" alt="LUZON LIGHTING" />
     </a>
     <div class="nav-links">
+      <a href="/">← Home</a>
       <a href="/#projects">Projects</a>
       <a href="/#solutions">Solutions</a>
       <a href="/products/architectural/" class="active">Products</a>
