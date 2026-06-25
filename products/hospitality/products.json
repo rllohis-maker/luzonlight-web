@@ -3,6 +3,947 @@
   "subtitle": "Discreet, tunable luminaires engineered for the silence of premium hotels and restaurants.",
   "types": [
     {
+      "slug": "recessed-downlight",
+      "label": "Recessed Downlights",
+      "products": [
+        {
+          "code": "DL350",
+          "pdf_page": 214,
+          "photo": "photos/DL350.jpg"
+        },
+        {
+          "code": "CL350",
+          "pdf_page": 214,
+          "photo": "photos/CL350.jpg"
+        },
+        {
+          "code": "DL201",
+          "pdf_page": 215,
+          "photo": "photos/DL201.jpg"
+        },
+        {
+          "code": "DL201A",
+          "pdf_page": 215,
+          "photo": "photos/DL201A.jpg"
+        },
+        {
+          "code": "DL416",
+          "pdf_page": 216,
+          "photo": "photos/DL416.jpg"
+        },
+        {
+          "code": "DL341",
+          "pdf_page": 216,
+          "photo": "photos/DL341.jpg"
+        },
+        {
+          "code": "DL170",
+          "pdf_page": 217,
+          "photo": "photos/DL170.jpg"
+        },
+        {
+          "code": "DL366",
+          "pdf_page": 218,
+          "photo": "photos/DL366.jpg"
+        },
+        {
+          "code": "DL373",
+          "pdf_page": 219,
+          "photo": "photos/DL373.jpg"
+        },
+        {
+          "code": "CL373",
+          "pdf_page": 219,
+          "photo": "photos/CL373.jpg"
+        },
+        {
+          "code": "DL392",
+          "pdf_page": 220,
+          "photo": "photos/DL392.jpg"
+        },
+        {
+          "code": "DL392A",
+          "pdf_page": 220,
+          "photo": "photos/DL392A.jpg"
+        },
+        {
+          "code": "CL117",
+          "pdf_page": 221,
+          "photo": "photos/CL117.jpg"
+        },
+        {
+          "code": "CL118",
+          "pdf_page": 221,
+          "photo": "photos/CL118.jpg"
+        },
+        {
+          "code": "DL63",
+          "pdf_page": 222,
+          "photo": "photos/DL63.jpg"
+        },
+        {
+          "code": "CL76",
+          "pdf_page": 222,
+          "photo": "photos/CL76.jpg"
+        },
+        {
+          "code": "CL78",
+          "pdf_page": 223,
+          "photo": "photos/CL78.jpg"
+        },
+        {
+          "code": "DL441",
+          "pdf_page": 224,
+          "photo": "photos/DL441.jpg"
+        },
+        {
+          "code": "CL441",
+          "pdf_page": 224,
+          "photo": "photos/CL441.jpg"
+        },
+        {
+          "code": "DL263",
+          "pdf_page": 225,
+          "photo": "photos/DL263.jpg"
+        },
+        {
+          "code": "CL140",
+          "pdf_page": 225,
+          "photo": "photos/CL140.jpg"
+        },
+        {
+          "code": "CL130",
+          "pdf_page": 226,
+          "photo": "photos/CL130.jpg"
+        },
+        {
+          "code": "CL164",
+          "pdf_page": 227,
+          "photo": "photos/CL164.jpg"
+        },
+        {
+          "code": "DL448",
+          "pdf_page": 228,
+          "photo": "photos/DL448.jpg"
+        },
+        {
+          "code": "CL448",
+          "pdf_page": 228,
+          "photo": "photos/CL448.jpg"
+        },
+        {
+          "code": "CL168",
+          "pdf_page": 229,
+          "photo": "photos/CL168.jpg"
+        },
+        {
+          "code": "DL64",
+          "pdf_page": 229,
+          "photo": "photos/DL64.jpg"
+        },
+        {
+          "code": "CL79",
+          "pdf_page": 230,
+          "photo": "photos/CL79.jpg"
+        },
+        {
+          "code": "CL79A/B",
+          "pdf_page": 230,
+          "photo": "photos/CL79A-B.jpg"
+        },
+        {
+          "code": "CL79C",
+          "pdf_page": 231,
+          "photo": "photos/CL79C.jpg"
+        },
+        {
+          "code": "DL445",
+          "pdf_page": 231,
+          "photo": "photos/DL445.jpg"
+        },
+        {
+          "code": "CL102",
+          "pdf_page": 232,
+          "photo": "photos/CL102.jpg"
+        },
+        {
+          "code": "DL103",
+          "pdf_page": 232,
+          "photo": "photos/DL103.jpg"
+        },
+        {
+          "code": "CL76",
+          "pdf_page": 233,
+          "photo": "photos/CL76-p233.jpg"
+        },
+        {
+          "code": "DL76",
+          "pdf_page": 233,
+          "photo": "photos/DL76.jpg"
+        },
+        {
+          "code": "DL165",
+          "pdf_page": 234,
+          "photo": "photos/DL165.jpg"
+        },
+        {
+          "code": "CL165",
+          "pdf_page": 234,
+          "photo": "photos/CL165.jpg"
+        },
+        {
+          "code": "CL391",
+          "pdf_page": 235,
+          "photo": "photos/CL391.jpg"
+        },
+        {
+          "code": "CL414",
+          "pdf_page": 235,
+          "photo": "photos/CL414.jpg"
+        },
+        {
+          "code": "DL444",
+          "pdf_page": 236,
+          "photo": "photos/DL444.jpg"
+        },
+        {
+          "code": "CL444",
+          "pdf_page": 236,
+          "photo": "photos/CL444.jpg"
+        },
+        {
+          "code": "DL423",
+          "pdf_page": 237,
+          "photo": "photos/DL423.jpg"
+        },
+        {
+          "code": "CL130B",
+          "pdf_page": 237,
+          "photo": "photos/CL130B.jpg"
+        },
+        {
+          "code": "DL104",
+          "pdf_page": 238,
+          "photo": "photos/DL104.jpg"
+        },
+        {
+          "code": "CL104",
+          "pdf_page": 238,
+          "photo": "photos/CL104.jpg"
+        },
+        {
+          "code": "CL76B",
+          "pdf_page": 239,
+          "photo": "photos/CL76B.jpg"
+        },
+        {
+          "code": "CL137",
+          "pdf_page": 239,
+          "photo": "photos/CL137.jpg"
+        },
+        {
+          "code": "DL387B",
+          "pdf_page": 240,
+          "photo": "photos/DL387B.jpg"
+        },
+        {
+          "code": "DL413",
+          "pdf_page": 240,
+          "photo": "photos/DL413.jpg"
+        },
+        {
+          "code": "DL369A/C",
+          "pdf_page": 241,
+          "photo": "photos/DL369A-C.jpg"
+        },
+        {
+          "code": "DL369B/D",
+          "pdf_page": 241,
+          "photo": "photos/DL369B-D.jpg"
+        },
+        {
+          "code": "DL340B",
+          "pdf_page": 242,
+          "photo": "photos/DL340B.jpg"
+        },
+        {
+          "code": "CL167",
+          "pdf_page": 242,
+          "photo": "photos/CL167.jpg"
+        },
+        {
+          "code": "DL304",
+          "pdf_page": 243,
+          "photo": "photos/DL304.jpg"
+        },
+        {
+          "code": "DL190B",
+          "pdf_page": 244,
+          "photo": "photos/DL190B.jpg"
+        },
+        {
+          "code": "DL359",
+          "pdf_page": 244,
+          "photo": "photos/DL359.jpg"
+        },
+        {
+          "code": "DL368",
+          "pdf_page": 245,
+          "photo": "photos/DL368.jpg"
+        },
+        {
+          "code": "CL101",
+          "pdf_page": 245,
+          "photo": "photos/CL101.jpg"
+        },
+        {
+          "code": "CL360",
+          "pdf_page": 246,
+          "photo": "photos/CL360.jpg"
+        },
+        {
+          "code": "DL41D",
+          "pdf_page": 246,
+          "photo": "photos/DL41D.jpg"
+        },
+        {
+          "code": "DL334",
+          "pdf_page": 247,
+          "photo": "photos/DL334.jpg"
+        },
+        {
+          "code": "DL260",
+          "pdf_page": 248,
+          "photo": "photos/DL260.jpg"
+        },
+        {
+          "code": "DL192",
+          "pdf_page": 249,
+          "photo": "photos/DL192.jpg"
+        },
+        {
+          "code": "CL22",
+          "pdf_page": 250,
+          "photo": "photos/CL22.jpg"
+        },
+        {
+          "code": "DL150",
+          "pdf_page": 250,
+          "photo": "photos/DL150.jpg"
+        },
+        {
+          "code": "CL88",
+          "pdf_page": 251,
+          "photo": "photos/CL88.jpg"
+        },
+        {
+          "code": "CL30",
+          "pdf_page": 251,
+          "photo": "photos/CL30.jpg"
+        },
+        {
+          "code": "DL333",
+          "pdf_page": 253,
+          "photo": "photos/DL333.jpg"
+        },
+        {
+          "code": "DL354",
+          "pdf_page": 253,
+          "photo": "photos/DL354.jpg"
+        },
+        {
+          "code": "DL294",
+          "pdf_page": 254,
+          "photo": "photos/DL294.jpg"
+        },
+        {
+          "code": "DL294A",
+          "pdf_page": 254,
+          "photo": "photos/DL294A.jpg"
+        },
+        {
+          "code": "DL301",
+          "pdf_page": 256,
+          "photo": "photos/DL301.jpg"
+        },
+        {
+          "code": "DL363",
+          "pdf_page": 256,
+          "photo": "photos/DL363.jpg"
+        },
+        {
+          "code": "CL138",
+          "pdf_page": 257,
+          "photo": "photos/CL138.jpg"
+        },
+        {
+          "code": "DL278",
+          "pdf_page": 257,
+          "photo": "photos/DL278.jpg"
+        },
+        {
+          "code": "CL161",
+          "pdf_page": 258,
+          "photo": "photos/CL161.jpg"
+        },
+        {
+          "code": "DL391",
+          "pdf_page": 259,
+          "photo": "photos/DL391.jpg"
+        },
+        {
+          "code": "DL202",
+          "pdf_page": 259,
+          "photo": "photos/DL202.jpg"
+        },
+        {
+          "code": "DL130",
+          "pdf_page": 263,
+          "photo": "photos/DL130.jpg"
+        },
+        {
+          "code": "DL387",
+          "pdf_page": 263,
+          "photo": "photos/DL387.jpg"
+        },
+        {
+          "code": "DL277A",
+          "pdf_page": 264,
+          "photo": "photos/DL277A.jpg"
+        },
+        {
+          "code": "DL277B",
+          "pdf_page": 264,
+          "photo": "photos/DL277B.jpg"
+        },
+        {
+          "code": "DL244",
+          "pdf_page": 265,
+          "photo": "photos/DL244.jpg"
+        },
+        {
+          "code": "DL386B",
+          "pdf_page": 265,
+          "photo": "photos/DL386B.jpg"
+        },
+        {
+          "code": "DL386A",
+          "pdf_page": 266,
+          "photo": "photos/DL386A.jpg"
+        },
+        {
+          "code": "DL386C",
+          "pdf_page": 266,
+          "photo": "photos/DL386C.jpg"
+        },
+        {
+          "code": "DL379C",
+          "pdf_page": 267,
+          "photo": "photos/DL379C.jpg"
+        },
+        {
+          "code": "DL379A",
+          "pdf_page": 267,
+          "photo": "photos/DL379A.jpg"
+        },
+        {
+          "code": "DL379B",
+          "pdf_page": 268,
+          "photo": "photos/DL379B.jpg"
+        },
+        {
+          "code": "DL129",
+          "pdf_page": 269,
+          "photo": "photos/DL129.jpg"
+        },
+        {
+          "code": "DL259",
+          "pdf_page": 269,
+          "photo": "photos/DL259.jpg"
+        },
+        {
+          "code": "DL417",
+          "pdf_page": 270,
+          "photo": "photos/DL417.jpg"
+        },
+        {
+          "code": "DL340",
+          "pdf_page": 271,
+          "photo": "photos/DL340.jpg"
+        },
+        {
+          "code": "DL167",
+          "pdf_page": 271,
+          "photo": "photos/DL167.jpg"
+        },
+        {
+          "code": "DL126",
+          "pdf_page": 272,
+          "photo": "photos/DL126.jpg"
+        },
+        {
+          "code": "DL338D",
+          "pdf_page": 273,
+          "photo": "photos/DL338D.jpg"
+        },
+        {
+          "code": "DL297B",
+          "pdf_page": 274,
+          "photo": "photos/DL297B.jpg"
+        },
+        {
+          "code": "DL313",
+          "pdf_page": 274,
+          "photo": "photos/DL313.jpg"
+        },
+        {
+          "code": "DL248A/B",
+          "pdf_page": 364,
+          "photo": "photos/DL248A-B.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "surface-downlight",
+      "label": "Surface Mounted Downlight",
+      "products": [
+        {
+          "code": "LDL266B/C",
+          "pdf_page": 60,
+          "photo": "photos/LDL266B-C.jpg"
+        },
+        {
+          "code": "LDL322A",
+          "pdf_page": 60,
+          "photo": "photos/LDL322A.jpg"
+        },
+        {
+          "code": "LDL338A",
+          "pdf_page": 61,
+          "photo": "photos/LDL338A.jpg"
+        },
+        {
+          "code": "LDL338B",
+          "pdf_page": 61,
+          "photo": "photos/LDL338B.jpg"
+        },
+        {
+          "code": "LDL228A",
+          "pdf_page": 62,
+          "photo": "photos/LDL228A.jpg"
+        },
+        {
+          "code": "LDL228B",
+          "pdf_page": 62,
+          "photo": "photos/LDL228B.jpg"
+        },
+        {
+          "code": "LDL38B",
+          "pdf_page": 63,
+          "photo": "photos/LDL38B.jpg"
+        },
+        {
+          "code": "LDL328",
+          "pdf_page": 64,
+          "photo": "photos/LDL328.jpg"
+        },
+        {
+          "code": "LDL176",
+          "pdf_page": 64,
+          "photo": "photos/LDL176.jpg"
+        },
+        {
+          "code": "LDL269B",
+          "pdf_page": 65,
+          "photo": "photos/LDL269B.jpg"
+        },
+        {
+          "code": "LDL269",
+          "pdf_page": 65,
+          "photo": "photos/LDL269.jpg"
+        },
+        {
+          "code": "LDL115/PD05",
+          "pdf_page": 66,
+          "photo": "photos/LDL115-PD05.jpg"
+        },
+        {
+          "code": "LDL207",
+          "pdf_page": 66,
+          "photo": "photos/LDL207.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "cabinet",
+      "label": "Cabinet Lights",
+      "products": [
+        {
+          "code": "KL08",
+          "pdf_page": 260,
+          "photo": "photos/KL08.jpg"
+        },
+        {
+          "code": "KL08A",
+          "pdf_page": 260,
+          "photo": "photos/KL08A.jpg"
+        },
+        {
+          "code": "KL10",
+          "pdf_page": 261,
+          "photo": "photos/KL10.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "wall-light",
+      "label": "Wall Lights",
+      "products": [
+        {
+          "code": "WL146",
+          "pdf_page": 300,
+          "photo": "photos/WL146.jpg"
+        },
+        {
+          "code": "WL102",
+          "pdf_page": 300,
+          "photo": "photos/WL102.jpg"
+        },
+        {
+          "code": "WL107",
+          "pdf_page": 301,
+          "photo": "photos/WL107.jpg"
+        },
+        {
+          "code": "WL117",
+          "pdf_page": 301,
+          "photo": "photos/WL117.jpg"
+        },
+        {
+          "code": "WL106",
+          "pdf_page": 302,
+          "photo": "photos/WL106.jpg"
+        },
+        {
+          "code": "WL101",
+          "pdf_page": 302,
+          "photo": "photos/WL101.jpg"
+        },
+        {
+          "code": "WL95",
+          "pdf_page": 303,
+          "photo": "photos/WL95.jpg"
+        },
+        {
+          "code": "WL99",
+          "pdf_page": 303,
+          "photo": "photos/WL99.jpg"
+        },
+        {
+          "code": "WL175A",
+          "pdf_page": 304,
+          "photo": "photos/WL175A.jpg"
+        },
+        {
+          "code": "WL175B",
+          "pdf_page": 304,
+          "photo": "photos/WL175B.jpg"
+        },
+        {
+          "code": "WL175C",
+          "pdf_page": 305,
+          "photo": "photos/WL175C.jpg"
+        },
+        {
+          "code": "WL170",
+          "pdf_page": 305,
+          "photo": "photos/WL170.jpg"
+        },
+        {
+          "code": "WL173",
+          "pdf_page": 306,
+          "photo": "photos/WL173.jpg"
+        },
+        {
+          "code": "WL122",
+          "pdf_page": 306,
+          "photo": "photos/WL122.jpg"
+        },
+        {
+          "code": "WL141",
+          "pdf_page": 307,
+          "photo": "photos/WL141.jpg"
+        },
+        {
+          "code": "WL126",
+          "pdf_page": 307,
+          "photo": "photos/WL126.jpg"
+        },
+        {
+          "code": "WL134",
+          "pdf_page": 308,
+          "photo": "photos/WL134.jpg"
+        },
+        {
+          "code": "WL100",
+          "pdf_page": 308,
+          "photo": "photos/WL100.jpg"
+        },
+        {
+          "code": "WL109",
+          "pdf_page": 309,
+          "photo": "photos/WL109.jpg"
+        },
+        {
+          "code": "WL02",
+          "pdf_page": 310,
+          "photo": "photos/WL02.jpg"
+        },
+        {
+          "code": "WL124",
+          "pdf_page": 311,
+          "photo": "photos/WL124.jpg"
+        },
+        {
+          "code": "WL124A",
+          "pdf_page": 311,
+          "photo": "photos/WL124A.jpg"
+        },
+        {
+          "code": "WL136",
+          "pdf_page": 312,
+          "photo": "photos/WL136.jpg"
+        },
+        {
+          "code": "WL127",
+          "pdf_page": 313,
+          "photo": "photos/WL127.jpg"
+        },
+        {
+          "code": "WL135",
+          "pdf_page": 313,
+          "photo": "photos/WL135.jpg"
+        },
+        {
+          "code": "WL68",
+          "pdf_page": 314,
+          "photo": "photos/WL68.jpg"
+        },
+        {
+          "code": "WL69",
+          "pdf_page": 314,
+          "photo": "photos/WL69.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "mirror-light",
+      "label": "Mirror Lights",
+      "products": [
+        {
+          "code": "ML25",
+          "pdf_page": 316,
+          "photo": "photos/ML25.jpg"
+        },
+        {
+          "code": "ML15",
+          "pdf_page": 316,
+          "photo": "photos/ML15.jpg"
+        },
+        {
+          "code": "ML26A",
+          "pdf_page": 317,
+          "photo": "photos/ML26A.jpg"
+        },
+        {
+          "code": "ML26B",
+          "pdf_page": 317,
+          "photo": "photos/ML26B.jpg"
+        },
+        {
+          "code": "ML13",
+          "pdf_page": 318,
+          "photo": "photos/ML13.jpg"
+        },
+        {
+          "code": "ML28",
+          "pdf_page": 318,
+          "photo": "photos/ML28.jpg"
+        },
+        {
+          "code": "ML32A",
+          "pdf_page": 319,
+          "photo": "photos/ML32A.jpg"
+        },
+        {
+          "code": "ML32B",
+          "pdf_page": 319,
+          "photo": "photos/ML32B.jpg"
+        },
+        {
+          "code": "ML32C",
+          "pdf_page": 320,
+          "photo": "photos/ML32C.jpg"
+        },
+        {
+          "code": "ML27",
+          "pdf_page": 320,
+          "photo": "photos/ML27.jpg"
+        },
+        {
+          "code": "ML17",
+          "pdf_page": 321,
+          "photo": "photos/ML17.jpg"
+        },
+        {
+          "code": "ML27C",
+          "pdf_page": 321,
+          "photo": "photos/ML27C.jpg"
+        },
+        {
+          "code": "ML35",
+          "pdf_page": 322,
+          "photo": "photos/ML35.jpg"
+        },
+        {
+          "code": "ML34",
+          "pdf_page": 322,
+          "photo": "photos/ML34.jpg"
+        },
+        {
+          "code": "ML31",
+          "pdf_page": 323,
+          "photo": "photos/ML31.jpg"
+        },
+        {
+          "code": "ML33",
+          "pdf_page": 323,
+          "photo": "photos/ML33.jpg"
+        },
+        {
+          "code": "ML36",
+          "pdf_page": 324,
+          "photo": "photos/ML36.jpg"
+        },
+        {
+          "code": "ML39",
+          "pdf_page": 324,
+          "photo": "photos/ML39.jpg"
+        },
+        {
+          "code": "ML29",
+          "pdf_page": 325,
+          "photo": "photos/ML29.jpg"
+        },
+        {
+          "code": "ML43",
+          "pdf_page": 326,
+          "photo": "photos/ML43.jpg"
+        },
+        {
+          "code": "ML42",
+          "pdf_page": 326,
+          "photo": "photos/ML42.jpg"
+        },
+        {
+          "code": "ML40",
+          "pdf_page": 327,
+          "photo": "photos/ML40.jpg"
+        },
+        {
+          "code": "ML30",
+          "pdf_page": 327,
+          "photo": "photos/ML30.jpg"
+        },
+        {
+          "code": "ML18",
+          "pdf_page": 328,
+          "photo": "photos/ML18.jpg"
+        },
+        {
+          "code": "ML01",
+          "pdf_page": 328,
+          "photo": "photos/ML01.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "pendant",
+      "label": "Designer Pendants",
+      "products": [
+        {
+          "code": "PD126",
+          "pdf_page": 275,
+          "photo": "photos/PD126.jpg"
+        },
+        {
+          "code": "PD02C",
+          "pdf_page": 275,
+          "photo": "photos/PD02C.jpg"
+        },
+        {
+          "code": "PD12",
+          "pdf_page": 276,
+          "photo": "photos/PD12.jpg"
+        },
+        {
+          "code": "PD12B",
+          "pdf_page": 276,
+          "photo": "photos/PD12B.jpg"
+        },
+        {
+          "code": "PD42",
+          "pdf_page": 277,
+          "photo": "photos/PD42.jpg"
+        },
+        {
+          "code": "PD413",
+          "pdf_page": 277,
+          "photo": "photos/PD413.jpg"
+        },
+        {
+          "code": "PD173",
+          "pdf_page": 278,
+          "photo": "photos/PD173.jpg"
+        },
+        {
+          "code": "PD417",
+          "pdf_page": 278,
+          "photo": "photos/PD417.jpg"
+        },
+        {
+          "code": "PD175A",
+          "pdf_page": 279,
+          "photo": "photos/PD175A.jpg"
+        },
+        {
+          "code": "PD175B",
+          "pdf_page": 279,
+          "photo": "photos/PD175B.jpg"
+        },
+        {
+          "code": "PD142",
+          "pdf_page": 288,
+          "photo": "photos/PD142.jpg"
+        },
+        {
+          "code": "PD147",
+          "pdf_page": 292,
+          "photo": "photos/PD147.jpg"
+        },
+        {
+          "code": "PD156",
+          "pdf_page": 295,
+          "photo": "photos/PD156.jpg"
+        },
+        {
+          "code": "PD145",
+          "pdf_page": 296,
+          "photo": "photos/PD145.jpg"
+        }
+      ]
+    },
+    {
       "slug": "ceiling",
       "label": "LED Ceiling & Bulkhead",
       "products": [
@@ -328,78 +1269,7 @@
           "photo": "photos/AL221.jpg"
         }
       ]
-    },
-    {
-      "slug": "surface-downlight",
-      "label": "Surface Mounted Downlight",
-      "products": [
-        {
-          "code": "LDL266B/C",
-          "pdf_page": 60,
-          "photo": "photos/LDL266B-C.jpg"
-        },
-        {
-          "code": "LDL322A",
-          "pdf_page": 60,
-          "photo": "photos/LDL322A.jpg"
-        },
-        {
-          "code": "LDL338A",
-          "pdf_page": 61,
-          "photo": "photos/LDL338A.jpg"
-        },
-        {
-          "code": "LDL338B",
-          "pdf_page": 61,
-          "photo": "photos/LDL338B.jpg"
-        },
-        {
-          "code": "LDL228A",
-          "pdf_page": 62,
-          "photo": "photos/LDL228A.jpg"
-        },
-        {
-          "code": "LDL228B",
-          "pdf_page": 62,
-          "photo": "photos/LDL228B.jpg"
-        },
-        {
-          "code": "LDL38B",
-          "pdf_page": 63,
-          "photo": "photos/LDL38B.jpg"
-        },
-        {
-          "code": "LDL328",
-          "pdf_page": 64,
-          "photo": "photos/LDL328.jpg"
-        },
-        {
-          "code": "LDL176",
-          "pdf_page": 64,
-          "photo": "photos/LDL176.jpg"
-        },
-        {
-          "code": "LDL269B",
-          "pdf_page": 65,
-          "photo": "photos/LDL269B.jpg"
-        },
-        {
-          "code": "LDL269",
-          "pdf_page": 65,
-          "photo": "photos/LDL269.jpg"
-        },
-        {
-          "code": "LDL115/PD05",
-          "pdf_page": 66,
-          "photo": "photos/LDL115-PD05.jpg"
-        },
-        {
-          "code": "LDL207",
-          "pdf_page": 66,
-          "photo": "photos/LDL207.jpg"
-        }
-      ]
     }
   ],
-  "total_products": 76
+  "total_products": 244
 }

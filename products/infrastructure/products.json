@@ -1,0 +1,311 @@
+{
+  "category": "Infrastructure",
+  "subtitle": "",
+  "types": [
+    {
+      "slug": "exterior-wall",
+      "label": "Exterior Wall Lights",
+      "products": [
+        {
+          "code": "WL28",
+          "pdf_page": 331,
+          "photo": "photos/WL28.jpg"
+        },
+        {
+          "code": "WL28B/C",
+          "pdf_page": 331,
+          "photo": "photos/WL28B-C.jpg"
+        },
+        {
+          "code": "WL149",
+          "pdf_page": 332,
+          "photo": "photos/WL149.jpg"
+        },
+        {
+          "code": "WL85",
+          "pdf_page": 332,
+          "photo": "photos/WL85.jpg"
+        },
+        {
+          "code": "WL73",
+          "pdf_page": 333,
+          "photo": "photos/WL73.jpg"
+        },
+        {
+          "code": "WL07C",
+          "pdf_page": 334,
+          "photo": "photos/WL07C.jpg"
+        },
+        {
+          "code": "WL387",
+          "pdf_page": 334,
+          "photo": "photos/WL387.jpg"
+        },
+        {
+          "code": "WL20",
+          "pdf_page": 335,
+          "photo": "photos/WL20.jpg"
+        },
+        {
+          "code": "WL20B",
+          "pdf_page": 335,
+          "photo": "photos/WL20B.jpg"
+        },
+        {
+          "code": "WL153",
+          "pdf_page": 336,
+          "photo": "photos/WL153.jpg"
+        },
+        {
+          "code": "WL130",
+          "pdf_page": 336,
+          "photo": "photos/WL130.jpg"
+        },
+        {
+          "code": "WL16",
+          "pdf_page": 337,
+          "photo": "photos/WL16.jpg"
+        },
+        {
+          "code": "WL112",
+          "pdf_page": 337,
+          "photo": "photos/WL112.jpg"
+        },
+        {
+          "code": "WL88",
+          "pdf_page": 338,
+          "photo": "photos/WL88.jpg"
+        },
+        {
+          "code": "WL88B",
+          "pdf_page": 338,
+          "photo": "photos/WL88B.jpg"
+        },
+        {
+          "code": "WL75",
+          "pdf_page": 339,
+          "photo": "photos/WL75.jpg"
+        },
+        {
+          "code": "WL57",
+          "pdf_page": 339,
+          "photo": "photos/WL57.jpg"
+        },
+        {
+          "code": "WL08",
+          "pdf_page": 340,
+          "photo": "photos/WL08.jpg"
+        },
+        {
+          "code": "WL417",
+          "pdf_page": 340,
+          "photo": "photos/WL417.jpg"
+        },
+        {
+          "code": "WL91",
+          "pdf_page": 341,
+          "photo": "photos/WL91.jpg"
+        },
+        {
+          "code": "WL90A/B",
+          "pdf_page": 342,
+          "photo": "photos/WL90A-B.jpg"
+        },
+        {
+          "code": "WL108",
+          "pdf_page": 342,
+          "photo": "photos/WL108.jpg"
+        },
+        {
+          "code": "WL176",
+          "pdf_page": 343,
+          "photo": "photos/WL176.jpg"
+        },
+        {
+          "code": "WL105",
+          "pdf_page": 343,
+          "photo": "photos/WL105.jpg"
+        },
+        {
+          "code": "WL52",
+          "pdf_page": 344,
+          "photo": "photos/WL52.jpg"
+        },
+        {
+          "code": "WL156",
+          "pdf_page": 344,
+          "photo": "photos/WL156.jpg"
+        },
+        {
+          "code": "WL06A",
+          "pdf_page": 345,
+          "photo": "photos/WL06A.jpg"
+        },
+        {
+          "code": "WL06B",
+          "pdf_page": 345,
+          "photo": "photos/WL06B.jpg"
+        },
+        {
+          "code": "WL80",
+          "pdf_page": 346,
+          "photo": "photos/WL80.jpg"
+        },
+        {
+          "code": "WL76",
+          "pdf_page": 346,
+          "photo": "photos/WL76.jpg"
+        },
+        {
+          "code": "WL46",
+          "pdf_page": 347,
+          "photo": "photos/WL46.jpg"
+        },
+        {
+          "code": "WL162",
+          "pdf_page": 347,
+          "photo": "photos/WL162.jpg"
+        },
+        {
+          "code": "WL59A",
+          "pdf_page": 348,
+          "photo": "photos/WL59A.jpg"
+        },
+        {
+          "code": "WL60A",
+          "pdf_page": 348,
+          "photo": "photos/WL60A.jpg"
+        },
+        {
+          "code": "WL59B/C",
+          "pdf_page": 349,
+          "photo": "photos/WL59B-C.jpg"
+        },
+        {
+          "code": "WL60B/C",
+          "pdf_page": 349,
+          "photo": "photos/WL60B-C.jpg"
+        },
+        {
+          "code": "WL142",
+          "pdf_page": 350,
+          "photo": "photos/WL142.jpg"
+        },
+        {
+          "code": "WL142A",
+          "pdf_page": 350,
+          "photo": "photos/WL142A.jpg"
+        },
+        {
+          "code": "WL116",
+          "pdf_page": 351,
+          "photo": "photos/WL116.jpg"
+        },
+        {
+          "code": "WL92",
+          "pdf_page": 351,
+          "photo": "photos/WL92.jpg"
+        },
+        {
+          "code": "WL125",
+          "pdf_page": 352,
+          "photo": "photos/WL125.jpg"
+        },
+        {
+          "code": "WL96",
+          "pdf_page": 353,
+          "photo": "photos/WL96.jpg"
+        },
+        {
+          "code": "WL62",
+          "pdf_page": 353,
+          "photo": "photos/WL62.jpg"
+        },
+        {
+          "code": "WL154",
+          "pdf_page": 355,
+          "photo": "photos/WL154.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "bollard",
+      "label": "Bollards",
+      "products": [
+        {
+          "code": "ML08",
+          "pdf_page": 360,
+          "photo": "photos/ML08.jpg"
+        },
+        {
+          "code": "NL90A/B",
+          "pdf_page": 361,
+          "photo": "photos/NL90A-B.jpg"
+        },
+        {
+          "code": "NL08",
+          "pdf_page": 361,
+          "photo": "photos/NL08.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "spike",
+      "label": "Spike Lights",
+      "products": [
+        {
+          "code": "NL154A/B",
+          "pdf_page": 356,
+          "photo": "photos/NL154A-B.jpg"
+        },
+        {
+          "code": "NL154C",
+          "pdf_page": 356,
+          "photo": "photos/NL154C.jpg"
+        },
+        {
+          "code": "ML06",
+          "pdf_page": 357,
+          "photo": "photos/ML06.jpg"
+        },
+        {
+          "code": "ML07",
+          "pdf_page": 357,
+          "photo": "photos/ML07.jpg"
+        },
+        {
+          "code": "NL14",
+          "pdf_page": 358,
+          "photo": "photos/NL14.jpg"
+        },
+        {
+          "code": "NL06",
+          "pdf_page": 358,
+          "photo": "photos/NL06.jpg"
+        },
+        {
+          "code": "NL18",
+          "pdf_page": 359,
+          "photo": "photos/NL18.jpg"
+        },
+        {
+          "code": "NL16",
+          "pdf_page": 359,
+          "photo": "photos/NL16.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "solar",
+      "label": "Solar Lights",
+      "products": [
+        {
+          "code": "SOL01",
+          "pdf_page": 355,
+          "photo": "photos/SOL01.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 56
+}

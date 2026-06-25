@@ -257,7 +257,123 @@
           "photo": "photos/RX434.jpg"
         }
       ]
+    },
+    {
+      "slug": "track-light",
+      "label": "Track Lights",
+      "products": [
+        {
+          "code": "TL62C/D",
+          "pdf_page": 272,
+          "photo": "photos/TL62C-D.jpg"
+        },
+        {
+          "code": "TL119",
+          "pdf_page": 281,
+          "photo": "photos/TL119.jpg"
+        },
+        {
+          "code": "TL125",
+          "pdf_page": 281,
+          "photo": "photos/TL125.jpg"
+        },
+        {
+          "code": "TL14",
+          "pdf_page": 282,
+          "photo": "photos/TL14.jpg"
+        },
+        {
+          "code": "TL383",
+          "pdf_page": 282,
+          "photo": "photos/TL383.jpg"
+        },
+        {
+          "code": "TL62/B",
+          "pdf_page": 283,
+          "photo": "photos/TL62-B.jpg"
+        },
+        {
+          "code": "TL338D",
+          "pdf_page": 283,
+          "photo": "photos/TL338D.jpg"
+        },
+        {
+          "code": "TL340",
+          "pdf_page": 284,
+          "photo": "photos/TL340.jpg"
+        },
+        {
+          "code": "TL126",
+          "pdf_page": 284,
+          "photo": "photos/TL126.jpg"
+        },
+        {
+          "code": "TL167A",
+          "pdf_page": 285,
+          "photo": "photos/TL167A.jpg"
+        },
+        {
+          "code": "TL167B",
+          "pdf_page": 285,
+          "photo": "photos/TL167B.jpg"
+        },
+        {
+          "code": "TL42",
+          "pdf_page": 286,
+          "photo": "photos/TL42.jpg"
+        },
+        {
+          "code": "TL413",
+          "pdf_page": 286,
+          "photo": "photos/TL413.jpg"
+        },
+        {
+          "code": "TL142",
+          "pdf_page": 289,
+          "photo": "photos/TL142.jpg"
+        },
+        {
+          "code": "TL142",
+          "pdf_page": 290,
+          "photo": "photos/TL142-p290.jpg"
+        },
+        {
+          "code": "TL142B",
+          "pdf_page": 291,
+          "photo": "photos/TL142B.jpg"
+        },
+        {
+          "code": "TL142A",
+          "pdf_page": 291,
+          "photo": "photos/TL142A.jpg"
+        },
+        {
+          "code": "TL147",
+          "pdf_page": 293,
+          "photo": "photos/TL147.jpg"
+        },
+        {
+          "code": "TL147A",
+          "pdf_page": 294,
+          "photo": "photos/TL147A.jpg"
+        },
+        {
+          "code": "TL156",
+          "pdf_page": 295,
+          "photo": "photos/TL156.jpg"
+        },
+        {
+          "code": "TL145A",
+          "pdf_page": 297,
+          "photo": "photos/TL145A.jpg"
+        },
+        {
+          "code": "TL145B",
+          "pdf_page": 297,
+          "photo": "photos/TL145B.jpg"
+        }
+      ]
     }
   ],
-  "total_products": 50
+  "total_products": 72
 }
