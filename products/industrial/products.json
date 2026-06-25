@@ -1,7 +1,341 @@
 {
   "category": "Industrial",
-  "subtitle": "High-bay, linear and explosion-proof systems built for continuous, demanding operation.",
+  "subtitle": "High-bay, vandal-resistant and industrial linear systems built for continuous, demanding operation.",
   "types": [
+    {
+      "slug": "high-bay",
+      "label": "LED High Bay",
+      "subtitle": "Industrial high-bay luminaires for warehouses, sports halls, logistics, manufacturing.",
+      "efficiency_note": "Every LUZON industrial family is available in 120 · 135 · 155 · 180 lm/W standard tiers, with 200+ lm/W on request.",
+      "products": [
+        {
+          "code": "HB00",
+          "name": "HGBA",
+          "tagline": "LED High Bay — Innovation over Adaption",
+          "description": "Iconic dual-section design with polycarbonate prismatic reflector. Versatile high-bay for warehouses, supermarkets and assembly halls.",
+          "wattages": [
+            "50W",
+            "70W",
+            "90W",
+            "100W",
+            "120W",
+            "150W",
+            "200W",
+            "240W",
+            "300W"
+          ],
+          "voltage_options": [
+            "347-480V optional"
+          ],
+          "certifications": [
+            "UL",
+            "DLC",
+            "CE",
+            "CB",
+            "EAC",
+            "GS",
+            "RoHS",
+            "SAA",
+            "TUV",
+            "SASO",
+            "PSE",
+            "D-Mark"
+          ],
+          "photo": "photos/HB00.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB01",
+          "name": "HGBB",
+          "tagline": "LED High Bay — Compact Generation",
+          "description": "Refined HGBB body with optimised thermal architecture. Same prismatic glass aesthetic in a more compact footprint.",
+          "wattages": [
+            "50W",
+            "70W",
+            "90W",
+            "100W",
+            "120W",
+            "150W",
+            "200W",
+            "240W",
+            "300W"
+          ],
+          "voltage_options": [
+            "347-480V optional"
+          ],
+          "certifications": [
+            "UL",
+            "DLC",
+            "CE",
+            "CB",
+            "EAC",
+            "RoHS",
+            "SAA"
+          ],
+          "photo": "photos/HB01.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB02",
+          "name": "HGSS",
+          "tagline": "LED High Bay — Slim Series",
+          "description": "Slimline high-bay with vertical fin heat-sink and PC lens — minimal footprint for low-bay logistics and retail.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS",
+            "SAA"
+          ],
+          "photo": "photos/HB02.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB03",
+          "name": "HCap",
+          "tagline": "LED High Bay — Compact Aluminium Pendant",
+          "description": "All-aluminium body with chip-on-board engine. Sealed housing for cleaner industrial environments.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W",
+            "200W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/HB03.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB05",
+          "name": "HST",
+          "tagline": "LED High Bay — Sport & Track",
+          "description": "High-output luminaire engineered for sports halls, indoor arenas and high-ceiling logistics centres.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W",
+            "200W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS",
+            "SAA"
+          ],
+          "photo": "photos/HB05.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB06",
+          "name": "HGCP",
+          "tagline": "LED High Bay — Glass Cover Pendant",
+          "description": "Premium glass-cover finish for cleanrooms, food processing and pharmaceutical facilities.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W",
+            "200W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS",
+            "SAA",
+            "TUV"
+          ],
+          "photo": "photos/HB06.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB09",
+          "name": "HEco",
+          "tagline": "LED High Bay — Eco Series",
+          "description": "Cost-efficient high-bay for general-purpose warehouses and parking — best lm/W in its tier.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W",
+            "200W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/HB09.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB12",
+          "name": "HPro",
+          "tagline": "LED High Bay — Professional",
+          "description": "High-end professional fixture with selectable optics. Heat-sink architecture rated for 50,000h operation.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W",
+            "200W"
+          ],
+          "voltage_options": [
+            "AC100-277V",
+            "347-480V optional"
+          ],
+          "certifications": [
+            "UL",
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/HB12.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB15",
+          "name": "HMagic X",
+          "tagline": "E39/E40-base Retrofit High Bay",
+          "description": "Screw-base retrofit lamp for legacy HID fixtures. Reserve ring for safety chain. Plug-and-play replacement.",
+          "wattages": [
+            "100W",
+            "150W",
+            "200W"
+          ],
+          "voltage_options": [
+            "E39 / E40 base"
+          ],
+          "certifications": [
+            "CE",
+            "PSE"
+          ],
+          "photo": "photos/HB15.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB17",
+          "name": "HFar",
+          "tagline": "High-Power Long-Throw High Bay",
+          "description": "High-output long-throw fixture for extreme ceiling heights (≥12m). Targets ports, hangars and stadium roofs.",
+          "wattages": [
+            "450W",
+            "600W"
+          ],
+          "voltage_options": [
+            "AC100-277V",
+            "AC347-480V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/HB17.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        },
+        {
+          "code": "HB18",
+          "name": "HWide",
+          "tagline": "Wide-Beam Low-Bay",
+          "description": "Wide-beam, lower-power fixture for medium-height warehouses, supermarkets and shop floors.",
+          "wattages": [
+            "100W",
+            "120W",
+            "150W",
+            "180W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/HB18.jpg",
+          "efficiency_tiers": [
+            "120 lm/W",
+            "135 lm/W",
+            "155 lm/W",
+            "180 lm/W",
+            "200+ lm/W (on request)"
+          ]
+        }
+      ]
+    },
     {
       "slug": "vandal",
       "label": "Vandal Resistant",
@@ -60,5 +394,5 @@
       ]
     }
   ],
-  "total_products": 9
+  "total_products": 20
 }
