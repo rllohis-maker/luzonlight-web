@@ -1,0 +1,263 @@
+{
+  "category": "Luxury Retail",
+  "subtitle": "Track, accent and showcase optics calibrated to elevate material, surface and gesture.",
+  "types": [
+    {
+      "slug": "track",
+      "label": "LED Track Lights",
+      "products": [
+        {
+          "code": "LTL29",
+          "pdf_page": 101,
+          "photo": "photos/LTL29.jpg"
+        },
+        {
+          "code": "LTL29B/F",
+          "pdf_page": 101,
+          "photo": "photos/LTL29B-F.jpg"
+        },
+        {
+          "code": "LTL29",
+          "pdf_page": 102,
+          "photo": "photos/LTL29-p102.jpg"
+        },
+        {
+          "code": "LTL29B/F",
+          "pdf_page": 102,
+          "photo": "photos/LTL29B-F-p102.jpg"
+        },
+        {
+          "code": "LTL29B",
+          "pdf_page": 103,
+          "photo": "photos/LTL29B.jpg"
+        },
+        {
+          "code": "LTL29E",
+          "pdf_page": 103,
+          "photo": "photos/LTL29E.jpg"
+        },
+        {
+          "code": "LTL338",
+          "pdf_page": 104,
+          "photo": "photos/LTL338.jpg"
+        },
+        {
+          "code": "LTL228",
+          "pdf_page": 104,
+          "photo": "photos/LTL228.jpg"
+        },
+        {
+          "code": "TL90A",
+          "pdf_page": 105,
+          "photo": "photos/TL90A.jpg"
+        },
+        {
+          "code": "TL90B",
+          "pdf_page": 105,
+          "photo": "photos/TL90B.jpg"
+        },
+        {
+          "code": "LTL69A",
+          "pdf_page": 106,
+          "photo": "photos/LTL69A.jpg"
+        },
+        {
+          "code": "LTL69B",
+          "pdf_page": 106,
+          "photo": "photos/LTL69B.jpg"
+        },
+        {
+          "code": "TL57A",
+          "pdf_page": 107,
+          "photo": "photos/TL57A.jpg"
+        },
+        {
+          "code": "TL58A",
+          "pdf_page": 107,
+          "photo": "photos/TL58A.jpg"
+        },
+        {
+          "code": "TL02",
+          "pdf_page": 108,
+          "photo": "photos/TL02.jpg"
+        },
+        {
+          "code": "TL127",
+          "pdf_page": 108,
+          "photo": "photos/TL127.jpg"
+        },
+        {
+          "code": "TL25",
+          "pdf_page": 109,
+          "photo": "photos/TL25.jpg"
+        },
+        {
+          "code": "TL25B",
+          "pdf_page": 109,
+          "photo": "photos/TL25B.jpg"
+        },
+        {
+          "code": "LTL129",
+          "pdf_page": 110,
+          "photo": "photos/LTL129.jpg"
+        },
+        {
+          "code": "CRI80",
+          "pdf_page": 110,
+          "photo": "photos/CRI80.jpg"
+        },
+        {
+          "code": "TL120",
+          "pdf_page": 111,
+          "photo": "photos/TL120.jpg"
+        },
+        {
+          "code": "TL135",
+          "pdf_page": 112,
+          "photo": "photos/TL135.jpg"
+        },
+        {
+          "code": "TL56",
+          "pdf_page": 113,
+          "photo": "photos/TL56.jpg"
+        },
+        {
+          "code": "TL17",
+          "pdf_page": 113,
+          "photo": "photos/TL17.jpg"
+        },
+        {
+          "code": "TL149",
+          "pdf_page": 114,
+          "photo": "photos/TL149.jpg"
+        },
+        {
+          "code": "CRI90",
+          "pdf_page": 114,
+          "photo": "photos/CRI90.jpg"
+        },
+        {
+          "code": "TL79",
+          "pdf_page": 115,
+          "photo": "photos/TL79.jpg"
+        },
+        {
+          "code": "TL322",
+          "pdf_page": 115,
+          "photo": "photos/TL322.jpg"
+        },
+        {
+          "code": "TL40B",
+          "pdf_page": 116,
+          "photo": "photos/TL40B.jpg"
+        },
+        {
+          "code": "TL43",
+          "pdf_page": 116,
+          "photo": "photos/TL43.jpg"
+        },
+        {
+          "code": "TL121",
+          "pdf_page": 117,
+          "photo": "photos/TL121.jpg"
+        },
+        {
+          "code": "TL49",
+          "pdf_page": 117,
+          "photo": "photos/TL49.jpg"
+        },
+        {
+          "code": "TL110",
+          "pdf_page": 118,
+          "photo": "photos/TL110.jpg"
+        },
+        {
+          "code": "TL115",
+          "pdf_page": 118,
+          "photo": "photos/TL115.jpg"
+        },
+        {
+          "code": "TL153",
+          "pdf_page": 119,
+          "photo": "photos/TL153.jpg"
+        },
+        {
+          "code": "DB153",
+          "pdf_page": 119,
+          "photo": "photos/DB153.jpg"
+        },
+        {
+          "code": "TL151A",
+          "pdf_page": 120,
+          "photo": "photos/TL151A.jpg"
+        },
+        {
+          "code": "TL151B",
+          "pdf_page": 120,
+          "photo": "photos/TL151B.jpg"
+        },
+        {
+          "code": "TL161A",
+          "pdf_page": 121,
+          "photo": "photos/TL161A.jpg"
+        },
+        {
+          "code": "TL161B",
+          "pdf_page": 121,
+          "photo": "photos/TL161B.jpg"
+        },
+        {
+          "code": "TL50/B",
+          "pdf_page": 122,
+          "photo": "photos/TL50-B.jpg"
+        },
+        {
+          "code": "TL109",
+          "pdf_page": 122,
+          "photo": "photos/TL109.jpg"
+        },
+        {
+          "code": "TL111",
+          "pdf_page": 123,
+          "photo": "photos/TL111.jpg"
+        },
+        {
+          "code": "TL112",
+          "pdf_page": 123,
+          "photo": "photos/TL112.jpg"
+        },
+        {
+          "code": "TL113",
+          "pdf_page": 124,
+          "photo": "photos/TL113.jpg"
+        },
+        {
+          "code": "TL114",
+          "pdf_page": 124,
+          "photo": "photos/TL114.jpg"
+        },
+        {
+          "code": "EZ0447",
+          "pdf_page": 127,
+          "photo": "photos/EZ0447.jpg"
+        },
+        {
+          "code": "EZ0448",
+          "pdf_page": 127,
+          "photo": "photos/EZ0448.jpg"
+        },
+        {
+          "code": "RX431",
+          "pdf_page": 129,
+          "photo": "photos/RX431.jpg"
+        },
+        {
+          "code": "RX434",
+          "pdf_page": 129,
+          "photo": "photos/RX434.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 50
+}

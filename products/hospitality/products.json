@@ -1,0 +1,405 @@
+{
+  "category": "Hospitality",
+  "subtitle": "Discreet, tunable luminaires engineered for the silence of premium hotels and restaurants.",
+  "types": [
+    {
+      "slug": "ceiling",
+      "label": "LED Ceiling & Bulkhead",
+      "products": [
+        {
+          "code": "LAL37",
+          "pdf_page": 68,
+          "photo": "photos/LAL37.jpg"
+        },
+        {
+          "code": "LAL38",
+          "pdf_page": 68,
+          "photo": "photos/LAL38.jpg"
+        },
+        {
+          "code": "AL08B",
+          "pdf_page": 69,
+          "photo": "photos/AL08B.jpg"
+        },
+        {
+          "code": "AL12B",
+          "pdf_page": 69,
+          "photo": "photos/AL12B.jpg"
+        },
+        {
+          "code": "AL149",
+          "pdf_page": 70,
+          "photo": "photos/AL149.jpg"
+        },
+        {
+          "code": "AL149B",
+          "pdf_page": 70,
+          "photo": "photos/AL149B.jpg"
+        },
+        {
+          "code": "AL180",
+          "pdf_page": 71,
+          "photo": "photos/AL180.jpg"
+        },
+        {
+          "code": "AL85",
+          "pdf_page": 71,
+          "photo": "photos/AL85.jpg"
+        },
+        {
+          "code": "AL188",
+          "pdf_page": 72,
+          "photo": "photos/AL188.jpg"
+        },
+        {
+          "code": "AL189",
+          "pdf_page": 72,
+          "photo": "photos/AL189.jpg"
+        },
+        {
+          "code": "AL87",
+          "pdf_page": 73,
+          "photo": "photos/AL87.jpg"
+        },
+        {
+          "code": "AL87B",
+          "pdf_page": 73,
+          "photo": "photos/AL87B.jpg"
+        },
+        {
+          "code": "AL202",
+          "pdf_page": 74,
+          "photo": "photos/AL202.jpg"
+        },
+        {
+          "code": "AL200",
+          "pdf_page": 74,
+          "photo": "photos/AL200.jpg"
+        },
+        {
+          "code": "AL117",
+          "pdf_page": 75,
+          "photo": "photos/AL117.jpg"
+        },
+        {
+          "code": "AL145",
+          "pdf_page": 75,
+          "photo": "photos/AL145.jpg"
+        },
+        {
+          "code": "AL126",
+          "pdf_page": 76,
+          "photo": "photos/AL126.jpg"
+        },
+        {
+          "code": "AL191",
+          "pdf_page": 77,
+          "photo": "photos/AL191.jpg"
+        },
+        {
+          "code": "AL203",
+          "pdf_page": 77,
+          "photo": "photos/AL203.jpg"
+        },
+        {
+          "code": "AL122",
+          "pdf_page": 78,
+          "photo": "photos/AL122.jpg"
+        },
+        {
+          "code": "AL212",
+          "pdf_page": 78,
+          "photo": "photos/AL212.jpg"
+        },
+        {
+          "code": "AL47",
+          "pdf_page": 79,
+          "photo": "photos/AL47.jpg"
+        },
+        {
+          "code": "AL181",
+          "pdf_page": 80,
+          "photo": "photos/AL181.jpg"
+        },
+        {
+          "code": "AL166",
+          "pdf_page": 80,
+          "photo": "photos/AL166.jpg"
+        },
+        {
+          "code": "AL137",
+          "pdf_page": 81,
+          "photo": "photos/AL137.jpg"
+        },
+        {
+          "code": "AL137B",
+          "pdf_page": 81,
+          "photo": "photos/AL137B.jpg"
+        },
+        {
+          "code": "AL216",
+          "pdf_page": 82,
+          "photo": "photos/AL216.jpg"
+        },
+        {
+          "code": "AL213",
+          "pdf_page": 83,
+          "photo": "photos/AL213.jpg"
+        },
+        {
+          "code": "AL170",
+          "pdf_page": 84,
+          "photo": "photos/AL170.jpg"
+        },
+        {
+          "code": "AL215",
+          "pdf_page": 85,
+          "photo": "photos/AL215.jpg"
+        },
+        {
+          "code": "AL187",
+          "pdf_page": 85,
+          "photo": "photos/AL187.jpg"
+        },
+        {
+          "code": "AL148",
+          "pdf_page": 86,
+          "photo": "photos/AL148.jpg"
+        },
+        {
+          "code": "AL141",
+          "pdf_page": 86,
+          "photo": "photos/AL141.jpg"
+        },
+        {
+          "code": "LAL41",
+          "pdf_page": 87,
+          "photo": "photos/LAL41.jpg"
+        },
+        {
+          "code": "LAL24",
+          "pdf_page": 87,
+          "photo": "photos/LAL24.jpg"
+        },
+        {
+          "code": "AL173",
+          "pdf_page": 88,
+          "photo": "photos/AL173.jpg"
+        },
+        {
+          "code": "AL211",
+          "pdf_page": 88,
+          "photo": "photos/AL211.jpg"
+        },
+        {
+          "code": "LAL99D",
+          "pdf_page": 89,
+          "photo": "photos/LAL99D.jpg"
+        },
+        {
+          "code": "LAL99C",
+          "pdf_page": 89,
+          "photo": "photos/LAL99C.jpg"
+        },
+        {
+          "code": "AL194",
+          "pdf_page": 90,
+          "photo": "photos/AL194.jpg"
+        },
+        {
+          "code": "AL174/B",
+          "pdf_page": 91,
+          "photo": "photos/AL174-B.jpg"
+        },
+        {
+          "code": "AL174",
+          "pdf_page": 91,
+          "photo": "photos/AL174.jpg"
+        },
+        {
+          "code": "AL96",
+          "pdf_page": 92,
+          "photo": "photos/AL96.jpg"
+        },
+        {
+          "code": "AL66",
+          "pdf_page": 92,
+          "photo": "photos/AL66.jpg"
+        },
+        {
+          "code": "AL65",
+          "pdf_page": 93,
+          "photo": "photos/AL65.jpg"
+        },
+        {
+          "code": "AL65B",
+          "pdf_page": 93,
+          "photo": "photos/AL65B.jpg"
+        },
+        {
+          "code": "AL65C",
+          "pdf_page": 94,
+          "photo": "photos/AL65C.jpg"
+        },
+        {
+          "code": "AL65D",
+          "pdf_page": 94,
+          "photo": "photos/AL65D.jpg"
+        },
+        {
+          "code": "AL162/B",
+          "pdf_page": 95,
+          "photo": "photos/AL162-B.jpg"
+        },
+        {
+          "code": "AL163/B",
+          "pdf_page": 95,
+          "photo": "photos/AL163-B.jpg"
+        },
+        {
+          "code": "AL91",
+          "pdf_page": 96,
+          "photo": "photos/AL91.jpg"
+        },
+        {
+          "code": "AL91E",
+          "pdf_page": 96,
+          "photo": "photos/AL91E.jpg"
+        },
+        {
+          "code": "AL91F",
+          "pdf_page": 97,
+          "photo": "photos/AL91F.jpg"
+        },
+        {
+          "code": "AL104A",
+          "pdf_page": 98,
+          "photo": "photos/AL104A.jpg"
+        },
+        {
+          "code": "AL104B",
+          "pdf_page": 98,
+          "photo": "photos/AL104B.jpg"
+        },
+        {
+          "code": "AL104R",
+          "pdf_page": 99,
+          "photo": "photos/AL104R.jpg"
+        },
+        {
+          "code": "AL104S",
+          "pdf_page": 99,
+          "photo": "photos/AL104S.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "bulkhead",
+      "label": "LED Bulkhead",
+      "products": [
+        {
+          "code": "AL65",
+          "pdf_page": 199,
+          "photo": "photos/AL65-p199.jpg"
+        },
+        {
+          "code": "AL65D",
+          "pdf_page": 199,
+          "photo": "photos/AL65D-p199.jpg"
+        },
+        {
+          "code": "AL104",
+          "pdf_page": 200,
+          "photo": "photos/AL104.jpg"
+        },
+        {
+          "code": "AL104S",
+          "pdf_page": 200,
+          "photo": "photos/AL104S-p200.jpg"
+        },
+        {
+          "code": "CK22B",
+          "pdf_page": 201,
+          "photo": "photos/CK22B.jpg"
+        },
+        {
+          "code": "AL221",
+          "pdf_page": 201,
+          "photo": "photos/AL221.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "surface-downlight",
+      "label": "Surface Mounted Downlight",
+      "products": [
+        {
+          "code": "LDL266B/C",
+          "pdf_page": 60,
+          "photo": "photos/LDL266B-C.jpg"
+        },
+        {
+          "code": "LDL322A",
+          "pdf_page": 60,
+          "photo": "photos/LDL322A.jpg"
+        },
+        {
+          "code": "LDL338A",
+          "pdf_page": 61,
+          "photo": "photos/LDL338A.jpg"
+        },
+        {
+          "code": "LDL338B",
+          "pdf_page": 61,
+          "photo": "photos/LDL338B.jpg"
+        },
+        {
+          "code": "LDL228A",
+          "pdf_page": 62,
+          "photo": "photos/LDL228A.jpg"
+        },
+        {
+          "code": "LDL228B",
+          "pdf_page": 62,
+          "photo": "photos/LDL228B.jpg"
+        },
+        {
+          "code": "LDL38B",
+          "pdf_page": 63,
+          "photo": "photos/LDL38B.jpg"
+        },
+        {
+          "code": "LDL328",
+          "pdf_page": 64,
+          "photo": "photos/LDL328.jpg"
+        },
+        {
+          "code": "LDL176",
+          "pdf_page": 64,
+          "photo": "photos/LDL176.jpg"
+        },
+        {
+          "code": "LDL269B",
+          "pdf_page": 65,
+          "photo": "photos/LDL269B.jpg"
+        },
+        {
+          "code": "LDL269",
+          "pdf_page": 65,
+          "photo": "photos/LDL269.jpg"
+        },
+        {
+          "code": "LDL115/PD05",
+          "pdf_page": 66,
+          "photo": "photos/LDL115-PD05.jpg"
+        },
+        {
+          "code": "LDL207",
+          "pdf_page": 66,
+          "photo": "photos/LDL207.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 76
+}

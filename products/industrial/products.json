@@ -1,0 +1,64 @@
+{
+  "category": "Industrial",
+  "subtitle": "High-bay, linear and explosion-proof systems built for continuous, demanding operation.",
+  "types": [
+    {
+      "slug": "vandal",
+      "label": "Vandal Resistant",
+      "products": [
+        {
+          "code": "DL284C",
+          "pdf_page": 198,
+          "photo": "photos/DL284C.jpg"
+        },
+        {
+          "code": "WL216",
+          "pdf_page": 203,
+          "photo": "photos/WL216.jpg"
+        },
+        {
+          "code": "WL175A",
+          "pdf_page": 203,
+          "photo": "photos/WL175A.jpg"
+        },
+        {
+          "code": "WL175B",
+          "pdf_page": 204,
+          "photo": "photos/WL175B.jpg"
+        },
+        {
+          "code": "WL175C",
+          "pdf_page": 204,
+          "photo": "photos/WL175C.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "strip",
+      "label": "LED Strip Light",
+      "products": [
+        {
+          "code": "ST201",
+          "pdf_page": 207,
+          "photo": "photos/ST201.jpg"
+        },
+        {
+          "code": "ST01",
+          "pdf_page": 207,
+          "photo": "photos/ST01.jpg"
+        },
+        {
+          "code": "ST202",
+          "pdf_page": 208,
+          "photo": "photos/ST202.jpg"
+        },
+        {
+          "code": "ST206",
+          "pdf_page": 209,
+          "photo": "photos/ST206.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 9
+}

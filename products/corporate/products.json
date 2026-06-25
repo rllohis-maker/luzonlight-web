@@ -1,0 +1,421 @@
+{
+  "category": "Corporate",
+  "subtitle": "Refined office and boardroom systems with circadian control and seamless integration.",
+  "types": [
+    {
+      "slug": "panel",
+      "label": "LED Panel & Troffer",
+      "products": [
+        {
+          "code": "LCK21",
+          "pdf_page": 135,
+          "photo": "photos/LCK21.jpg"
+        },
+        {
+          "code": "LCK20",
+          "pdf_page": 135,
+          "photo": "photos/LCK20.jpg"
+        },
+        {
+          "code": "LPL009",
+          "pdf_page": 136,
+          "photo": "photos/LPL009.jpg"
+        },
+        {
+          "code": "LCK19",
+          "pdf_page": 138,
+          "photo": "photos/LCK19.jpg"
+        },
+        {
+          "code": "LPL6060",
+          "pdf_page": 138,
+          "photo": "photos/LPL6060.jpg"
+        },
+        {
+          "code": "CK003",
+          "pdf_page": 140,
+          "photo": "photos/CK003.jpg"
+        },
+        {
+          "code": "LDB15B",
+          "pdf_page": 142,
+          "photo": "photos/LDB15B.jpg"
+        },
+        {
+          "code": "LPL006",
+          "pdf_page": 145,
+          "photo": "photos/LPL006.jpg"
+        },
+        {
+          "code": "LPL3060",
+          "pdf_page": 146,
+          "photo": "photos/LPL3060.jpg"
+        },
+        {
+          "code": "LPL008",
+          "pdf_page": 147,
+          "photo": "photos/LPL008.jpg"
+        },
+        {
+          "code": "LPL18",
+          "pdf_page": 147,
+          "photo": "photos/LPL18.jpg"
+        },
+        {
+          "code": "CRI80",
+          "pdf_page": 148,
+          "photo": "photos/CRI80-p148.jpg"
+        },
+        {
+          "code": "LPL6060",
+          "pdf_page": 148,
+          "photo": "photos/LPL6060-p148.jpg"
+        },
+        {
+          "code": "LGL002",
+          "pdf_page": 150,
+          "photo": "photos/LGL002.jpg"
+        },
+        {
+          "code": "LGL03",
+          "pdf_page": 150,
+          "photo": "photos/LGL03.jpg"
+        },
+        {
+          "code": "LGL200",
+          "pdf_page": 151,
+          "photo": "photos/LGL200.jpg"
+        },
+        {
+          "code": "OL02",
+          "pdf_page": 158,
+          "photo": "photos/OL02.jpg"
+        },
+        {
+          "code": "OL06",
+          "pdf_page": 159,
+          "photo": "photos/OL06.jpg"
+        },
+        {
+          "code": "OL07",
+          "pdf_page": 159,
+          "photo": "photos/OL07.jpg"
+        },
+        {
+          "code": "OL01",
+          "pdf_page": 160,
+          "photo": "photos/OL01.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "office",
+      "label": "Office Lighting",
+      "products": [
+        {
+          "code": "LCK32",
+          "pdf_page": 154,
+          "photo": "photos/LCK32.jpg"
+        },
+        {
+          "code": "LDR32",
+          "pdf_page": 155,
+          "photo": "photos/LDR32.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "linear",
+      "label": "LED Linear & Batten",
+      "products": [
+        {
+          "code": "LDB77A",
+          "pdf_page": 162,
+          "photo": "photos/LDB77A.jpg"
+        },
+        {
+          "code": "DB77A",
+          "pdf_page": 163,
+          "photo": "photos/DB77A.jpg"
+        },
+        {
+          "code": "DB77B",
+          "pdf_page": 163,
+          "photo": "photos/DB77B.jpg"
+        },
+        {
+          "code": "DB66",
+          "pdf_page": 164,
+          "photo": "photos/DB66.jpg"
+        },
+        {
+          "code": "DB66A/B",
+          "pdf_page": 164,
+          "photo": "photos/DB66A-B.jpg"
+        },
+        {
+          "code": "DB66D",
+          "pdf_page": 165,
+          "photo": "photos/DB66D.jpg"
+        },
+        {
+          "code": "DB158",
+          "pdf_page": 165,
+          "photo": "photos/DB158.jpg"
+        },
+        {
+          "code": "DB45B",
+          "pdf_page": 166,
+          "photo": "photos/DB45B.jpg"
+        },
+        {
+          "code": "DB45A",
+          "pdf_page": 166,
+          "photo": "photos/DB45A.jpg"
+        },
+        {
+          "code": "DB198",
+          "pdf_page": 167,
+          "photo": "photos/DB198.jpg"
+        },
+        {
+          "code": "DB146A",
+          "pdf_page": 168,
+          "photo": "photos/DB146A.jpg"
+        },
+        {
+          "code": "DB146B",
+          "pdf_page": 168,
+          "photo": "photos/DB146B.jpg"
+        },
+        {
+          "code": "DB25",
+          "pdf_page": 169,
+          "photo": "photos/DB25.jpg"
+        },
+        {
+          "code": "DB147",
+          "pdf_page": 170,
+          "photo": "photos/DB147.jpg"
+        },
+        {
+          "code": "DB155",
+          "pdf_page": 170,
+          "photo": "photos/DB155.jpg"
+        },
+        {
+          "code": "DB160",
+          "pdf_page": 171,
+          "photo": "photos/DB160.jpg"
+        },
+        {
+          "code": "DB160/ACC",
+          "pdf_page": 171,
+          "photo": "photos/DB160-ACC.jpg"
+        },
+        {
+          "code": "DB165",
+          "pdf_page": 172,
+          "photo": "photos/DB165.jpg"
+        },
+        {
+          "code": "DB166",
+          "pdf_page": 172,
+          "photo": "photos/DB166.jpg"
+        },
+        {
+          "code": "DB151A",
+          "pdf_page": 173,
+          "photo": "photos/DB151A.jpg"
+        },
+        {
+          "code": "DB151B",
+          "pdf_page": 173,
+          "photo": "photos/DB151B.jpg"
+        },
+        {
+          "code": "DB181",
+          "pdf_page": 174,
+          "photo": "photos/DB181.jpg"
+        },
+        {
+          "code": "DB05",
+          "pdf_page": 175,
+          "photo": "photos/DB05.jpg"
+        },
+        {
+          "code": "DB179",
+          "pdf_page": 175,
+          "photo": "photos/DB179.jpg"
+        },
+        {
+          "code": "DB105A",
+          "pdf_page": 176,
+          "photo": "photos/DB105A.jpg"
+        },
+        {
+          "code": "DB157",
+          "pdf_page": 176,
+          "photo": "photos/DB157.jpg"
+        },
+        {
+          "code": "LDB211",
+          "pdf_page": 177,
+          "photo": "photos/LDB211.jpg"
+        },
+        {
+          "code": "LDB211A",
+          "pdf_page": 177,
+          "photo": "photos/LDB211A.jpg"
+        },
+        {
+          "code": "DB200",
+          "pdf_page": 178,
+          "photo": "photos/DB200.jpg"
+        },
+        {
+          "code": "DB153",
+          "pdf_page": 178,
+          "photo": "photos/DB153-p178.jpg"
+        },
+        {
+          "code": "DB76",
+          "pdf_page": 179,
+          "photo": "photos/DB76.jpg"
+        },
+        {
+          "code": "DB186",
+          "pdf_page": 179,
+          "photo": "photos/DB186.jpg"
+        },
+        {
+          "code": "DB186",
+          "pdf_page": 180,
+          "photo": "photos/DB186-p180.jpg"
+        },
+        {
+          "code": "DB121",
+          "pdf_page": 181,
+          "photo": "photos/DB121.jpg"
+        },
+        {
+          "code": "DB138",
+          "pdf_page": 181,
+          "photo": "photos/DB138.jpg"
+        },
+        {
+          "code": "DB49",
+          "pdf_page": 182,
+          "photo": "photos/DB49.jpg"
+        },
+        {
+          "code": "DB49A",
+          "pdf_page": 182,
+          "photo": "photos/DB49A.jpg"
+        },
+        {
+          "code": "DB199",
+          "pdf_page": 183,
+          "photo": "photos/DB199.jpg"
+        },
+        {
+          "code": "DB124",
+          "pdf_page": 183,
+          "photo": "photos/DB124.jpg"
+        },
+        {
+          "code": "DB144",
+          "pdf_page": 184,
+          "photo": "photos/DB144.jpg"
+        },
+        {
+          "code": "DB41",
+          "pdf_page": 184,
+          "photo": "photos/DB41.jpg"
+        },
+        {
+          "code": "DB175",
+          "pdf_page": 185,
+          "photo": "photos/DB175.jpg"
+        },
+        {
+          "code": "DB106B",
+          "pdf_page": 186,
+          "photo": "photos/DB106B.jpg"
+        },
+        {
+          "code": "DB212",
+          "pdf_page": 186,
+          "photo": "photos/DB212.jpg"
+        },
+        {
+          "code": "DB218",
+          "pdf_page": 187,
+          "photo": "photos/DB218.jpg"
+        },
+        {
+          "code": "DB128A",
+          "pdf_page": 188,
+          "photo": "photos/DB128A.jpg"
+        },
+        {
+          "code": "DB128B",
+          "pdf_page": 188,
+          "photo": "photos/DB128B.jpg"
+        },
+        {
+          "code": "DB68",
+          "pdf_page": 189,
+          "photo": "photos/DB68.jpg"
+        },
+        {
+          "code": "DB169",
+          "pdf_page": 189,
+          "photo": "photos/DB169.jpg"
+        },
+        {
+          "code": "DB214",
+          "pdf_page": 190,
+          "photo": "photos/DB214.jpg"
+        },
+        {
+          "code": "DB145",
+          "pdf_page": 190,
+          "photo": "photos/DB145.jpg"
+        },
+        {
+          "code": "TRP15",
+          "pdf_page": 191,
+          "photo": "photos/TRP15.jpg"
+        },
+        {
+          "code": "TRP14",
+          "pdf_page": 192,
+          "photo": "photos/TRP14.jpg"
+        },
+        {
+          "code": "TRP12",
+          "pdf_page": 193,
+          "photo": "photos/TRP12.jpg"
+        },
+        {
+          "code": "TRP13",
+          "pdf_page": 193,
+          "photo": "photos/TRP13.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "unknown",
+      "label": "Unknown",
+      "products": [
+        {
+          "code": "DB216",
+          "pdf_page": 202,
+          "photo": "photos/DB216.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 78
+}
