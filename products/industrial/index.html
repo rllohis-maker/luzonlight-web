@@ -127,8 +127,8 @@
     <h1>Industrial<br><em>lighting.</em></h1>
     <p class="hero-lead">LED high-bay, vandal-resistant and linear systems engineered for continuous, demanding operation in warehouses, factories, logistics centres, sports halls and harsh-environment infrastructure.</p>
     <div class="hero-stats">
-      <div class="hero-stat"><div class="num" id="stat-products">20</div><div class="lbl">Products</div></div>
-      <div class="hero-stat"><div class="num" id="stat-types">3</div><div class="lbl">Families</div></div>
+      <div class="hero-stat"><div class="num" id="stat-products">36</div><div class="lbl">Products</div></div>
+      <div class="hero-stat"><div class="num" id="stat-types">6</div><div class="lbl">Families</div></div>
       <div class="hero-stat"><div class="num">L90 / 50,000h</div><div class="lbl">Engineered Life</div></div>
       <div class="hero-stat"><div class="num">IP65 – IP69K</div><div class="lbl">Ingress Range</div></div>
     </div>
@@ -205,7 +205,8 @@
       sec.className='type-section';sec.dataset.type=t.slug;
       const headSub = t.subtitle ? `<div class="type-sub">${t.subtitle}</div>` : '';
 
-      if(t.slug === 'high-bay'){
+      const cinematicFamilies = ['high-bay','linear-high-bay','floodlight','street'];
+      if(cinematicFamilies.includes(t.slug)){
         sec.innerHTML=`
           <div class="type-head">
             <div><h2>${t.label}</h2>${headSub}</div>

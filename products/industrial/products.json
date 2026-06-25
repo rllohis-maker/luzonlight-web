@@ -337,6 +337,360 @@
       ]
     },
     {
+      "slug": "linear-high-bay",
+      "label": "Linear High Bay",
+      "subtitle": "Linear-format high-bay luminaires — cable-suspended for warehouses, logistics and aircraft hangars.",
+      "products": [
+        {
+          "code": "LHB07",
+          "name": "HFly A",
+          "tagline": "High-efficiency cost-effective LED Linear High Bay",
+          "description": "Linear high-bay for warehouses, supermarkets and aircraft hangars. Cable suspension with mounting bracket.",
+          "wattages": [
+            "80W",
+            "120W",
+            "180W"
+          ],
+          "voltage_options": [
+            "347-480VAC optional"
+          ],
+          "certifications": [
+            "cUL",
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/LHB07.jpg"
+        },
+        {
+          "code": "LHB08",
+          "name": "HFly B",
+          "tagline": "High-efficiency LED Linear High Bay — economy variant",
+          "description": "Economy version of HFly A — same beam geometry at lower price point for general logistics.",
+          "wattages": [
+            "80W",
+            "120W",
+            "180W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/LHB08.jpg"
+        },
+        {
+          "code": "LHB01",
+          "name": "HRLS",
+          "tagline": "Round Linear Bay — sleek profile",
+          "description": "Round LED linear bay with optimised thermal channel — lower power, retail and supermarket aisles.",
+          "wattages": [
+            "30W",
+            "60W",
+            "90W"
+          ],
+          "voltage_options": [
+            "347-480VAC optional"
+          ],
+          "certifications": [
+            "cUL",
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/LHB01.jpg"
+        },
+        {
+          "code": "LHB05",
+          "name": "HLLS",
+          "tagline": "Low-Bay Linear — under-canopy",
+          "description": "Low-bay linear with extended diffuser — under-canopy applications, mezzanines, low ceilings.",
+          "wattages": [
+            "40W",
+            "65W",
+            "75W"
+          ],
+          "voltage_options": [
+            "AC220-240V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/LHB05.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "floodlight",
+      "label": "Floodlight",
+      "subtitle": "IP65 floodlights and high-mast systems for façades, sports arenas, gas stations and outdoor industrial yards.",
+      "products": [
+        {
+          "code": "FL01",
+          "name": "HCover",
+          "tagline": "All-purpose IP65 Floodlight",
+          "description": "Versatile floodlight for façades, perimeter security, loading bays and outdoor task lighting.",
+          "wattages": [
+            "60W",
+            "90W",
+            "120W",
+            "180W",
+            "240W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS",
+            "SAA"
+          ],
+          "photo": "photos/FL01.jpg"
+        },
+        {
+          "code": "FL06",
+          "name": "HIM",
+          "tagline": "Humanized modular flood for sports arenas",
+          "description": "Modular high-output floodlight engineered for stadiums, sports arenas and broadcast-quality sport venues.",
+          "wattages": [
+            "300W",
+            "600W",
+            "900W"
+          ],
+          "voltage_options": [
+            "AC100-277V",
+            "347-480VAC"
+          ],
+          "certifications": [
+            "CE",
+            "CB",
+            "ETL",
+            "RoHS",
+            "TUV"
+          ],
+          "photo": "photos/FL06.jpg"
+        },
+        {
+          "code": "FL08",
+          "name": "HSpot",
+          "tagline": "Compact Spot Floodlight",
+          "description": "Compact narrow-beam spot for façade accent and architectural projection — adjustable mount.",
+          "wattages": [
+            "40W",
+            "60W",
+            "80W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/FL08.jpg"
+        },
+        {
+          "code": "FL12",
+          "name": "HGasX",
+          "tagline": "Gas Station Canopy Light",
+          "description": "Recessed canopy luminaire engineered for gas-station forecourts and covered loading bays — low-glare optics.",
+          "wattages": [
+            "50W",
+            "80W",
+            "100W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/FL12.jpg"
+        },
+        {
+          "code": "FL13",
+          "name": "HMast X",
+          "tagline": "High-Mast / Sports Pole Floodlight",
+          "description": "Modular high-mast floodlight up to 1000W. Sports fields, ports, large industrial yards, perimeter masts.",
+          "wattages": [
+            "200W",
+            "400W",
+            "600W",
+            "800W",
+            "1000W"
+          ],
+          "voltage_options": [
+            "AC100-277V",
+            "347-480VAC"
+          ],
+          "certifications": [
+            "CE",
+            "CB",
+            "TUV",
+            "RoHS"
+          ],
+          "photo": "photos/FL13.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "street",
+      "label": "Street & Area",
+      "subtitle": "Pole-top, street, area and wall-pack luminaires for municipal, residential, parking and perimeter applications.",
+      "products": [
+        {
+          "code": "ST05",
+          "name": "Pole",
+          "tagline": "Professional Area Lighting Fixture",
+          "description": "Premium pole-top luminaire for parking lots, residential streets and commercial campuses. NEMA socket for control.",
+          "wattages": [
+            "120W",
+            "180W",
+            "240W"
+          ],
+          "voltage_options": [
+            "347-480VAC optional"
+          ],
+          "certifications": [
+            "cUL",
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/ST05.jpg"
+        },
+        {
+          "code": "ST11",
+          "name": "Pole X",
+          "tagline": "Pole-top — Extended Optics",
+          "description": "Pole X family — extended throw optics for arterial streets, highways and avenues.",
+          "wattages": [
+            "100W",
+            "150W",
+            "200W",
+            "240W"
+          ],
+          "voltage_options": [
+            "347-480VAC optional"
+          ],
+          "certifications": [
+            "cUL",
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/ST11.jpg"
+        },
+        {
+          "code": "ST03/08/18",
+          "name": "HD",
+          "tagline": "Compact Street Light Family",
+          "description": "Versatile street/area family — ST03 / ST08 / ST18 share the same housing across wattage tiers.",
+          "wattages": [
+            "15W",
+            "20W",
+            "30W",
+            "50W",
+            "70W",
+            "90W",
+            "120W",
+            "150W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS",
+            "SAA"
+          ],
+          "photo": "photos/ST03-08-18.jpg"
+        },
+        {
+          "code": "ST07/09",
+          "name": "HS",
+          "tagline": "Slim Street Luminaire",
+          "description": "Slim profile street luminaire with adjustable arm — residential streets and pedestrian zones.",
+          "wattages": [
+            "30W",
+            "50W",
+            "70W",
+            "90W",
+            "120W"
+          ],
+          "voltage_options": [
+            "347-480VAC optional"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/ST07-09.jpg"
+        },
+        {
+          "code": "ST12",
+          "name": "ECO Win",
+          "tagline": "Economical High-Power Street",
+          "description": "High-power, cost-engineered street for budget-constrained municipal retrofits — 180W to 300W tier.",
+          "wattages": [
+            "180W",
+            "240W",
+            "300W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/ST12.jpg"
+        },
+        {
+          "code": "ST14",
+          "name": "HPark",
+          "tagline": "Garden / Park Lighting",
+          "description": "Decorative park & garden luminaire — public parks, plazas, walkways. Top-mount or wall-mount.",
+          "wattages": [
+            "40W",
+            "60W"
+          ],
+          "voltage_options": [
+            "347-480VAC optional"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/ST14.jpg"
+        },
+        {
+          "code": "WP01",
+          "name": "HPack",
+          "tagline": "Wall-Pack Security Luminaire",
+          "description": "Outdoor wall-pack for building perimeter, entrances and security. Adjustable optics + photocell option.",
+          "wattages": [
+            "40W",
+            "70W"
+          ],
+          "voltage_options": [
+            "AC100-277V"
+          ],
+          "certifications": [
+            "DLC",
+            "CE",
+            "RoHS"
+          ],
+          "photo": "photos/WP01.jpg"
+        }
+      ]
+    },
+    {
       "slug": "vandal",
       "label": "Vandal Resistant",
       "products": [
@@ -394,5 +748,5 @@
       ]
     }
   ],
-  "total_products": 20
+  "total_products": 36
 }
