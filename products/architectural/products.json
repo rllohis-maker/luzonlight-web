@@ -1,0 +1,261 @@
+{
+  "category": "Architectural Lighting",
+  "source_pdf": "LUZON LIGHTING Product Collection 2025-I",
+  "types": [
+    {
+      "slug": "linear-recessed",
+      "label": "Architectural Linear (Recessed)",
+      "products": [
+        {
+          "code": "DL248A",
+          "variant": "Symmetric Beam",
+          "pdf_page": 366,
+          "photo": "photos/DL248A.jpg",
+          "datasheet": "datasheets/DL248A.jpg"
+        },
+        {
+          "code": "DL248B",
+          "variant": "Asymmetric Beam",
+          "pdf_page": 367,
+          "photo": "photos/DL248B.jpg",
+          "datasheet": "datasheets/DL248B.jpg"
+        },
+        {
+          "code": "DL332A",
+          "variant": "Symmetric Beam",
+          "pdf_page": 381,
+          "photo": "photos/DL332A.jpg",
+          "datasheet": "datasheets/DL332A.jpg"
+        },
+        {
+          "code": "DL332B",
+          "variant": "Asymmetric Beam",
+          "pdf_page": 382,
+          "photo": "photos/DL332B.jpg",
+          "datasheet": "datasheets/DL332B.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "adjustable-downlight",
+      "label": "Adjustable Downlights",
+      "products": [
+        {
+          "code": "ART-CL432",
+          "variant": "350° rotatable + 35° tiltable",
+          "pdf_page": 369,
+          "photo": "photos/ART-CL432.jpg",
+          "datasheet": "datasheets/ART-CL432.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "recessed-spot",
+      "label": "Recessed Spotlights",
+      "products": [
+        {
+          "code": "ART-CL425A",
+          "variant": "Concave, 30° vertical",
+          "pdf_page": 372,
+          "photo": "photos/ART-CL425A.jpg",
+          "datasheet": "datasheets/ART-CL425A.jpg"
+        },
+        {
+          "code": "ART-CL425B",
+          "variant": "Concave, 35° vertical + 355° horizontal",
+          "pdf_page": 373,
+          "photo": "photos/ART-CL425B.jpg",
+          "datasheet": "datasheets/ART-CL425B.jpg"
+        },
+        {
+          "code": "ART-CL171",
+          "variant": "Protrudent, 35° vertical + 355° horizontal",
+          "pdf_page": 374,
+          "photo": "photos/ART-CL171.jpg",
+          "datasheet": "datasheets/ART-CL171.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "trimless-spot",
+      "label": "Trimless Spotlights",
+      "products": [
+        {
+          "code": "ART-CL172",
+          "variant": "Trimless, 35° vertical + 190° horizontal",
+          "pdf_page": 376,
+          "photo": "photos/ART-CL172.jpg",
+          "datasheet": "datasheets/ART-CL172.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "recessed-downlight",
+      "label": "Recessed Downlights",
+      "products": [
+        {
+          "code": "DL399",
+          "variant": "Architectural recessed",
+          "pdf_page": 379,
+          "photo": "photos/DL399.jpg",
+          "datasheet": "datasheets/DL399.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "track-light",
+      "label": "Architectural Track Lights",
+      "products": [
+        {
+          "code": "TL332A",
+          "variant": "Symmetric Beam",
+          "pdf_page": 383,
+          "photo": "photos/TL332A.jpg",
+          "datasheet": "datasheets/TL332A.jpg"
+        },
+        {
+          "code": "TL332B",
+          "variant": "Asymmetric Beam",
+          "pdf_page": 384,
+          "photo": "photos/TL332B.jpg",
+          "datasheet": "datasheets/TL332B.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "magnetic-track",
+      "label": "Magnetic Track Systems",
+      "products": [
+        {
+          "code": "ART-DC-TL156",
+          "variant": "Magnetic track spot",
+          "pdf_page": 386,
+          "photo": "photos/ART-DC-TL156.jpg",
+          "datasheet": "datasheets/ART-DC-TL156.jpg"
+        },
+        {
+          "code": "ART-DC-PD156",
+          "variant": "Magnetic track pendant",
+          "pdf_page": 387,
+          "photo": "photos/ART-DC-PD156.jpg",
+          "datasheet": "datasheets/ART-DC-PD156.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "linear-pendant",
+      "label": "Architectural Linear Pendants",
+      "products": [
+        {
+          "code": "LAL99C",
+          "variant": "Flat — down lighting, recessed",
+          "pdf_page": 390,
+          "photo": "photos/LAL99C.jpg",
+          "datasheet": "datasheets/LAL99C.jpg"
+        },
+        {
+          "code": "LAL99D",
+          "variant": "Curved — down lighting, recessed",
+          "pdf_page": 391,
+          "photo": "photos/LAL99D.jpg",
+          "datasheet": "datasheets/LAL99D.jpg"
+        },
+        {
+          "code": "LAL99C-UD",
+          "variant": "Flat — up & down lighting",
+          "pdf_page": 392,
+          "photo": "photos/LAL99C-UD.jpg",
+          "datasheet": "datasheets/LAL99C-UD.jpg"
+        },
+        {
+          "code": "LAL99D-UD-CM",
+          "variant": "Curved — up & down, ceiling mount",
+          "pdf_page": 393,
+          "photo": "photos/LAL99D-UD-CM.jpg",
+          "datasheet": "datasheets/LAL99D-UD-CM.jpg"
+        },
+        {
+          "code": "LAL99C-PD",
+          "variant": "Flat — up & down, pendant",
+          "pdf_page": 394,
+          "photo": "photos/LAL99C-PD.jpg",
+          "datasheet": "datasheets/LAL99C-PD.jpg"
+        },
+        {
+          "code": "LAL99D-PD",
+          "variant": "Curved — up & down, pendant",
+          "pdf_page": 395,
+          "photo": "photos/LAL99D-PD.jpg",
+          "datasheet": "datasheets/LAL99D-PD.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "large-pendant",
+      "label": "Large-Format Pendants",
+      "products": [
+        {
+          "code": "AL194-CM",
+          "variant": "Extended large illumination, ceiling mount",
+          "pdf_page": 397,
+          "photo": "photos/AL194-CM.jpg",
+          "datasheet": "datasheets/AL194-CM.jpg"
+        },
+        {
+          "code": "AL194-PD",
+          "variant": "Extended large illumination, pendant",
+          "pdf_page": 398,
+          "photo": "photos/AL194-PD.jpg",
+          "datasheet": "datasheets/AL194-PD.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "pendant",
+      "label": "Designer Pendants",
+      "products": [
+        {
+          "code": "PD35A-B",
+          "variant": "Architectural pendant series",
+          "pdf_page": 400,
+          "photo": "photos/PD35A-B.jpg",
+          "datasheet": "datasheets/PD35A-B.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "wall-washer",
+      "label": "Wall Washers",
+      "products": [
+        {
+          "code": "DB195A",
+          "variant": "Flexible round wall washer",
+          "pdf_page": 402,
+          "photo": "photos/DB195A.jpg",
+          "datasheet": "datasheets/DB195A.jpg"
+        },
+        {
+          "code": "DB195B",
+          "variant": "Flexible square wall washer",
+          "pdf_page": 403,
+          "photo": "photos/DB195B.jpg",
+          "datasheet": "datasheets/DB195B.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "linear-slim",
+      "label": "Ultra-Slim Linear",
+      "products": [
+        {
+          "code": "DB207",
+          "variant": "Ultra-slim linear",
+          "pdf_page": 405,
+          "photo": "photos/DB207.jpg",
+          "datasheet": "datasheets/DB207.jpg"
+        }
+      ]
+    }
+  ],
+  "total_products": 26
+}
